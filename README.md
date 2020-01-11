@@ -13,3 +13,14 @@
 
 
 
+默认网关：192.168.1.1 
+
+默认账号：root
+
+默认密码：password
+
+！！！注意此款镜像为香橙派zero，非zero plus。他们的处理器是不一样的，不相兼容。
+
+如果想自己编译的话可以去原作者地址：
+
+https://github.com/coolsnowwolf/lede
