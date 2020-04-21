@@ -1,5 +1,10 @@
 # OrangePiZeroOpenWrt
-2020/01/02
+
+## 2020/04/21
+新上传的orangepi-zero-sdcard-nano.zip，为酷安基佬编译的固件
+
+
+#### 2020/01/02
 
 
 香橙派Zero的OpenWrt
