@@ -1,8 +1,9 @@
 # OrangePiZeroOpenWrt
 
 # 2020/04/21
-##新上传的orangepi-zero-sdcard-nano.zip，为酷安基佬编译的固件。
-##新增迅雷快鸟和passwall等功能
+## 新上传的orangepi-zero-sdcard-nano.zip，为酷安基佬编译的固件。
+
+## 新增迅雷快鸟和passwall等功能
 
 
 ![](https://github.com/Hidshad/OrangePiZeroOpenWrt/blob/master/2020-04-21_165638.png)
