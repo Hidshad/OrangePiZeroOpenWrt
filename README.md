@@ -1,7 +1,7 @@
 # OrangePiZeroOpenWrt
 
 # 2020/04/21
-## 新上传的orangepi-zero-sdcard-nano.zip，为酷安基佬编译的固件。
+## 新上传的orangepi-zero-sdcard-nano.zip
 
 ## 新增迅雷快鸟和passwall等功能
 
@@ -15,7 +15,7 @@
 香橙派Zero的OpenWrt
 
 
-从lede那边编译而成，在默认的配置下添加了两套皮肤以及ssl，支持四种飞机模式
+在默认的配置下添加了两套皮肤以及ssl，支持四种飞机模式
 
 
 
